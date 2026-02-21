@@ -210,13 +210,13 @@ Enter your skills as a comma-separated list and explore your best-matching jobs!
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Dashboard](assets/Image%202026-02-21%20at%2006.41.07.jpeg)
+![Dashboard](Image%202026-02-21%20at%2006.41.07.jpeg)
 
 ### Upload Page
-![Upload](assets/Image%202026-02-21%20at%2006.41.07.jpeg)
+![Upload](Image%202026-02-21%20at%2006.41.07.jpeg)
 
 ### Results
-![Results](assets/Image%202026-02-21%20at%2006.41.06.jpeg)
+![Results](Image%202026-02-21%20at%2006.41.06.jpeg)
 
 ---
 
